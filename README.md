@@ -1,6 +1,8 @@
 # spy-py: Discord webhook spyware written in Python
 ## Disclaimer
 
+This is real spyware. I am NOT responsible for anything you decide to do with it and this is for educational purposes only :)
+
 ## Usage
 
 Follow these steps to start spying:
