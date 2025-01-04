@@ -1,8 +1,6 @@
 # spy-py: Discord webhook spyware written in Python
 ## Disclaimer
 
-This code is intended for **educational and ethical purposes only**. The author is not responsible for any misuse of this code. Please use responsibly and within the bounds of the law.
-
 ## Usage
 
 Follow these steps to start spying:
@@ -10,10 +8,8 @@ Follow these steps to start spying:
 1. **Clone the repository**: 
 
     ```bash
-    git clone <repository-url>
+    git clone https://moham3dk/spy-py
     ```
-
-    Replace `<repository-url>` with the actual URL of your repository.
 
 2. **Create a Discord webhook**:
     - Go to your Discord server settings.
@@ -42,7 +38,7 @@ Follow these steps to start spying:
 
 Unfortunately, this project currently only supports **Windows**. Linux/Mac support will be added in the near future.
 
-> **Note**: If you are on Linux and want to create an executable, consider using a Windows virtual machine.
+> **Note**: Try a Windows virtual machine to make a distributable Windows executable.
 
 ## Contributing
 
